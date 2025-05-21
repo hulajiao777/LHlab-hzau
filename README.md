@@ -2,7 +2,7 @@
 
 组员：杨圣童，熊仕朗，姚恒，付果，吴威恒
 
-项目地址：[https://d2rs-2025spring.github.io/environment-lab](https://d2rs-2025spring.github.io/environment-lab/)
+项目地址：[https://l-hlab-hzau.vercel.app/](https://l-hlab-hzau.vercel.app/)
 
 ## Description
 
