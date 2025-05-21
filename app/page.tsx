@@ -20,9 +20,13 @@ const catMap:Record<string, string> = {
 }
 
 
-export default function Home({ searchParams }: any) {
+export default function Home() {
   const [cat, setCat] = useState('home')
   const [post, setPost] = useState("")
+
+  useEffect(()=>{
+    catNotes('home')
+  },[])
 
   function catNotes(cat: any) {
     getMd(cat).then(res => {
@@ -30,7 +34,6 @@ export default function Home({ searchParams }: any) {
       //@ts-ignore
       setPost(res)
     })
-
   }
 
   return (

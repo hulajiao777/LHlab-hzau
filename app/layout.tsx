@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "环境工程课题组",
-  description: "华中农业大学环境工程课题组网站",
+  title: "刘海组资源环境信息工程系网站",
+  description: "华中农业大学资源环境信息工程系网站",
 };
 
 export default function RootLayout({
