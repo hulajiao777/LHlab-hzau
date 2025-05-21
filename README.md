@@ -1,8 +1,8 @@
 # 第30组：刘海组资源环境信息工程网站建设
 
-组员：刘海，候琳杰，李磊，郭小莉    
+组员（Team member）：刘海，候琳杰，李磊，郭小莉    
 
-项目地址：[https://l-hlab-hzau.vercel.app/](https://l-hlab-hzau.vercel.app/)
+项目地址（Address）：[https://l-hlab-hzau.vercel.app/](https://l-hlab-hzau.vercel.app/)
 
 ## Description
 
@@ -28,7 +28,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## Learn more
 
 To learn more about Next.js, take a look at the following resources:
 
@@ -37,7 +37,7 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!   
 
-## Deploy on Vercel
+## Deploy On Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
