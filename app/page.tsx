@@ -22,7 +22,6 @@ const catMap:Record<string, string> = {
 
 export default function Home({ searchParams }: any) {
   const [cat, setCat] = useState('home')
-  const [key, setKey] = useState("")
   const [post, setPost] = useState("")
 
   function catNotes(cat: any) {
