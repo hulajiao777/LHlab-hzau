@@ -14,4 +14,4 @@
 
 - 电子邮箱：yjs10504@mail.hzau.edu.cn
 
-![](https://dd-static.jd.com/ddimgp/jfs/t20260625/287505/21/7565/112810/682d235fFb86f700a/20cb1c250ba62514.jpg)
+![](https://img20.360buyimg.com/openfeedback/jfs/t20260625/287505/21/7565/112810/682d235fFb86f700a/20cb1c250ba62514.jpg)

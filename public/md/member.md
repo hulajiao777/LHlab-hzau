@@ -10,7 +10,7 @@
 
   <a href="https://faculty.hzau.edu.cn/wangtianwei/zh_CN/index.htm" target="_blank" style="display: inline-block;">
     <img 
-      src="https://dd-static.jd.com/ddimgp/jfs/t20260625/296261/12/8987/13035/682d322eFc5abe1dd/b8e3a6c2c721a6cf.png" 
+      src="https://img20.360buyimg.com/openfeedback/jfs/t20260625/296261/12/8987/13035/682d322eFc5abe1dd/b8e3a6c2c721a6cf.png" 
       alt="王天巍" 
       style="width: 300px; height: auto; border-radius: 8px; cursor: pointer;"
     >
@@ -33,7 +33,7 @@
 
   <a href="https://zyhj.hzau.edu.cn/info/1183/7641.htm" target="_blank" style="display: inline-block;">
     <img 
-      src="https://dd-static.jd.com/ddimgp/jfs/t20260625/315690/11/2619/3876/682d2c9dFdc4f68a4/4cc3d72fe7eea2e5.jpg" 
+      src="https://img20.360buyimg.com/openfeedback/jfs/t20260625/315690/11/2619/3876/682d2c9dFdc4f68a4/4cc3d72fe7eea2e5.jpg" 
       alt="杨勇" 
       style="width: 300px; height: auto; border-radius: 8px; cursor: pointer;"
     >
@@ -65,13 +65,13 @@
 - 土壤重金属区域评估
 - GIS系统开发及制图
 ## 团队风采
-![](https://dd-static.jd.com/ddimgp/jfs/t20260625/313387/13/2803/5877908/682d3c0aF03af5c34/8c8afa01acf0650c.jpg)
+![](https://img20.360buyimg.com/openfeedback/jfs/t20260625/313387/13/2803/5877908/682d3c0aF03af5c34/8c8afa01acf0650c.jpg)
 #
 <div style="text-align: center; margin: 24px 0;">
 
   <a href="https://zyhj.hzau.edu.cn/info/1183/7649.htm" target="_blank" style="display: inline-block;">
     <img 
-      src="https://dd-static.jd.com/ddimgp/jfs/t20260625/300256/5/7949/455605/682d3949Fca8fed75/1ba506bf25e5ed2c.png" 
+      src="https://img20.360buyimg.com/openfeedback/jfs/t20260625/300256/5/7949/455605/682d3949Fca8fed75/1ba506bf25e5ed2c.png" 
       alt="张建" 
       style="width: 500px; height: auto; border-radius: 8px; cursor: pointer;"
     >
@@ -100,13 +100,13 @@
 - 基于低空遥感成像平台的作物群体理化信息快速获取与分析（对接智慧农业）
 - 时序高通量群体冠层表型信息驱动的大田作物长势评价模型研究（对接大田表型研究）
 ## 团队风采
-![](https://dd-static.jd.com/ddimgp/jfs/t20260625/311952/20/2681/4261899/682d3d65Fb4da212a/c9d047554493132f.jpg)
+![](https://img20.360buyimg.com/openfeedback/jfs/t20260625/311952/20/2681/4261899/682d3d65Fb4da212a/c9d047554493132f.jpg)
 #
 <div style="text-align: center; margin: 24px 0;">
 
   <a href="https://zyhj.hzau.edu.cn/info/1183/7650.htm" target="_blank" style="display: inline-block;">
     <img 
-      src="https://dd-static.jd.com/ddimgp/jfs/t20260625/309830/17/2777/62210/682d3a66F63b6aa88/8a89ff916235583b.jpg" 
+      src="https://img20.360buyimg.com/openfeedback/jfs/t20260625/309830/17/2777/62210/682d3a66F63b6aa88/8a89ff916235583b.jpg" 
       alt="刘诗诗" 
       style="width: 300px; height: auto; border-radius: 8px; cursor: pointer;"
     >
