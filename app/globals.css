@@ -53,7 +53,6 @@ header h1 {
 .angled {
     background: #fff;
     color: #333;
-    /* border-top: 2px solid #ddd; */
     /* background-image: radial-gradient(10% 50px at 70% 10%, #1c4357, transparent), radial-gradient(10% 50px at 30% 90%, #1c4357, transparent); */
     /* background-size: cover; */
 }
