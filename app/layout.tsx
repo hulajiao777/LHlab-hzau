@@ -13,6 +13,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="zh-CN" suppressHydrationWarning>
+      <meta name="referrer" content="never" />
       <body
       >
           <main>
