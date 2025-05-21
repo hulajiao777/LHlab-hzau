@@ -11,7 +11,7 @@ export const fetchCache = 'force-no-store';
 // 研究成果
 // 组内成员
 // 联系我们
-const catMap = {
+const catMap:Record<string, string> = {
   'home': '网站首页',
   'member': '师资力量',
   'direct': '研究方向与成果',

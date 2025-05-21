@@ -2,9 +2,6 @@
 
 import { marked } from "marked";
 
-// import Markdown from "./ClientMd";
-import { getMd } from "./fetch-md";
-
 
 export default function Post({ post }: any) {
 
@@ -28,8 +25,9 @@ export default function Post({ post }: any) {
 
  function Markdown({ text }: any) {
     var renderer = new marked.Renderer();
-    renderer.link = function (href:any, title:any, text:any) {
-
+    //@ts-ignore
+    renderer.link = function (href:string, title:string, text:string) {
+        //@ts-ignore
         let link = marked.Renderer.prototype.link.call(this, href, title, text);
         return link.replace("<a", "<a target='_blank' ");
 
