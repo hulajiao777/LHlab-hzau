@@ -4,11 +4,11 @@
 
 项目地址（Address）：[https://l-hlab-hzau.vercel.app/](https://l-hlab-hzau.vercel.app/)       
  
-## Description 
+## description 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).  
   
-## Getting Started      
+## getting Started      
    
 First, run the development server:      
 ```bash   
@@ -27,7 +27,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
  
-## Learn More
+## learn more
 
 To learn more about Next.js, take a look at the following resources:     
 
@@ -36,8 +36,8 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!   
 
-## Deploy On Vercel
+## deploy on vercel
 
-The simplest way to deploy your Next.js application is via the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme), developed by the creators of Next.js. Vercel offers seamless integration with GitHub/GitLab, automatic build/deployment pipelines, global CDN distribution, serverless function support for API routes, image/font optimizations, preview environments for pull requests, and one-click custom domain configuration with free SSL. Push your code to a repository, import it into Vercel, configure environment variables (if needed), and deploy—Vercel handles the rest. 
+
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.    
