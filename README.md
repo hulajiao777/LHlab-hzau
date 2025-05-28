@@ -1,6 +1,6 @@
 # 第30组：刘海组资源环境信息工程网站建设 
 
-组员（Team Member）：刘海，候琳杰，李磊，郭小莉    
+组员（Team Member）：刘海，候琳杰，李磊，郭小莉       
 
 项目地址（Address）：[https://l-hlab-hzau.vercel.app/](https://l-hlab-hzau.vercel.app/)       
  
