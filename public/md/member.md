@@ -100,7 +100,8 @@
 - 基于低空遥感成像平台的作物群体理化信息快速获取与分析（对接智慧农业）
 - 时序高通量群体冠层表型信息驱动的大田作物长势评价模型研究（对接大田表型研究）
 ## 团队风采
-![](https://img20.360buyimg.com/openfeedback/jfs/t20260702/310615/5/4734/4261899/6836b34bFf56417b9/d6d18be8e258503a.jpg)
+![1b68755862ece9ef54cb2934ac4618c1](https://github.com/user-attachments/assets/30c4d01d-eef5-4253-95ac-b6b606e0306c)
+
 #
 <div style="text-align: center; margin: 24px 0;">
 
