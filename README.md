@@ -7,8 +7,8 @@
 ## Description 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).  
-  
-## Getting Started      
+This project is developed using the  [Next.js](https://nextjs.org) framework (v14), initialized with the [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app) tool configured with the App Router architecture. Next.js is a leading React-based framework that combines the flexibility of React with server-side rendering (SSR), static site generation (SSG), and hybrid rendering capabilities to deliver optimized web performance and SEO-friendly content.  
+## Getting Started     
    
 First, run the development server:      
 ```bash   
