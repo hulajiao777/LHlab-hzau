@@ -58,7 +58,7 @@ export default function Home() {
           <ul>
             {Object.keys(catMap).map(item => {
               return <li className={item === cat ? 'active' : ''} onClick={() => catNotes(item)} key={item}>{catMap[item]}</li>
-            })}
+            })} 
 
           </ul>
 
