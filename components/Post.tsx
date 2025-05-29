@@ -14,9 +14,6 @@ export default function Post({ post }: any) {
                 </article>
             </div>
 
-            {/* <div className="right"> */}
-                {/* < img src="https://ice.frostsky.com/2024/04/01/6d16b318ac3766b0d06546998c5066ed.jpeg" alt="" /> */}
-            {/* </div> */}
         </div>
     </>
 }
