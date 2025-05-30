@@ -6,13 +6,12 @@
 
 项目地址（Address）：[https://l-hlab-hzau.vercel.app/](https://l-hlab-hzau.vercel.app/)       
 
-集合的课堂技能：在vscode中，使用 Typescript 强类型语言，基于 Next.js 全栈框架，并部署在 Vercel 平台
-使用文学化编程markdown工具作为网站的主题内容输入，并使用大模型Chatgpt获取灵感并参与部分代码的书写
+该项目集合的课堂技能：在VS_code中，使用 Typescript 强类型语言，基于 Next.js 全栈框架，并部署在 Vercel 平台
+使用文学化编程MarkDown工具作为网站的主题内容输入，并使用大模型Chatgpt获取灵感并参与部分代码的书写
 
-网站简介：华中农业大学资源环境信息工程网站建设项目旨在打造一个以展示为主的专业介绍平台，全面呈现资源环境信息工程专业的基本概况、师资力量、科研方向、教学成果及学生活动等内容。该网站采用简洁直观的设计风格，突出专业特色，便于访问者快速了解专业建设情况与发展动态。项目主要服务对象为学生、家长及社会公众，强调信息公开、视觉美观与使用便捷性，为专业宣传和招生推广提供有力支撑。
+网站简介：华中农业大学资源环境信息工程专业的网站建设项目致力于打造一个以展示为主的专业性介绍平台，全面呈现出资源环境信息工程专业的基本概况、师资力量、科研方向、教学成果及学生活动等多方面内容。该网站采用简洁直观的设计风格，以及华中农业大学相关的绿色主题，突出专业特色，便于访问者快速了解专业的建设情况与发展动态。该项目主要服务对象为备考学生、家长及社会公众，强调信息公开、视觉美观与使用便捷性，为专业宣传和招生推广提供有力支撑。
 
 ## Description 
-# introduce our project
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).  
   
